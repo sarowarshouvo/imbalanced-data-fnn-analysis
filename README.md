@@ -100,8 +100,9 @@ November 2025
 --
 
 ### 📎 Files
-- **Mini Project 3 Report (PDF):** `Mini_Project_3_Report.pdf`
-- **Jupyter Notebook:** `Mini_Project_3.ipynb`
+- [Jupyter Notebook](https://github.com/user-attachments/files/24349629/Mini_Project3_L20609025.ipynb)
+- [Mini Project 3 Report (PDF)](https://github.com/user-attachments/files/24349630/Mini_Project_3_L20609025.pdf)
+
 
 
 

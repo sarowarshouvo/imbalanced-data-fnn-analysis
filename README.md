@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 This repository contains the implementation and analysis for **Mini Project 3** of  
-**MATH 5383 – Predictive Analytics**.
+**Predictive Analytics**.
 
 The project investigates how the **learning rate** affects the **convergence behavior** of a fixed Feed-Forward Neural Network (FNN) when trained on a **highly imbalanced binary dataset** with an inner–outer clustered structure. Special attention is given to class-wise performance differences between the minority and majority classes.
 
@@ -83,3 +83,25 @@ These results highlight that faster convergence does not guarantee balanced lear
 ---
 
 ## 📂 Repository Structure
+```
+├── Mini_Project_3_Report.pdf
+├── Mini_Project_3.ipynb
+└── README.md
+```
+
+
+---
+
+## 👤 Author
+**Saroar Jahan Shuba**  
+MATH 5383 – Predictive Analytics  
+November 2025
+
+--
+
+### 📎 Files
+- **Mini Project 3 Report (PDF):** `Mini_Project_3_Report.pdf`
+- **Jupyter Notebook:** `Mini_Project_3.ipynb`
+
+
+

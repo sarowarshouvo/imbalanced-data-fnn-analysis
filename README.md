@@ -94,7 +94,7 @@ These results highlight that faster convergence does not guarantee balanced lear
 
 ## 👤 Author
 **Saroar Jahan Shuba**  
-MATH 5383 – Predictive Analytics  
+Predictive Analytics  
 November 2025
 
 --

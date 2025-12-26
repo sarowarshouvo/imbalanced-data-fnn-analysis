@@ -84,8 +84,8 @@ These results highlight that faster convergence does not guarantee balanced lear
 
 ## 📂 Repository Structure
 ```
-├── Mini_Project_3_Report.pdf
 ├── Mini_Project_3.ipynb
+├── Mini_Project_3_Report.pdf
 └── README.md
 ```
 
